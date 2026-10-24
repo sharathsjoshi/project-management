@@ -1,10 +1,10 @@
 # project-management
 
-1. Engineering manager
-2. Product manager/Product Owner
-3. Bidding
+1. Engineering manager Skills
+2. Product Engagements
+3. Proposal Essentials
 4. Estimations
-5.
+5. 
 6.
 7.
 8.
